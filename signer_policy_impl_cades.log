@@ -651,3 +651,19 @@
 2022-04-12 10:13:29 ERROR CAManager:105 - Certificado da autoridade não é raiz
 2022-04-12 10:13:29 ERROR CAManager:105 - Certificado da autoridade não é raiz
 2022-04-12 10:13:29 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-12 11:35:11 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-12 11:35:12 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-12 11:35:12 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 11:35:12 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 11:35:12 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-12 11:48:44 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-12 11:48:44 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-12 11:48:44 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-12 11:48:44 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 11:48:44 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 11:48:44 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-12 13:48:59 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-12 13:49:00 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-12 13:49:00 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 13:49:00 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 13:49:00 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
