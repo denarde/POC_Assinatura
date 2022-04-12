@@ -10,7 +10,7 @@ public class Assinatura {
     private char[] senha = "1234".toCharArray();
 
     private KeyStore rep;
-    private String file = "src/main/java/certificado/WayneEnterprisesInc.pfx";
+    private String file = "src/main/java/certificado/Wayne Enterprises Inc.pfx";
 
     public PublicKey getPubKey() {
         return pubKey;
@@ -51,6 +51,7 @@ public class Assinatura {
         Key chavePrivada = (Key) rep.getKey("wayne enterprises, inc", senha);
         if (chavePrivada instanceof PrivateKey) {
             System.out.println("Chave Privada encontrada!");
+            System.out.println(chavePrivada);
             return (PrivateKey) chavePrivada;
         }
         return null;
@@ -63,6 +64,7 @@ public class Assinatura {
         entrada.close();
         PublicKey chavePublica = rep.getCertificate("wayne enterprises, inc").getPublicKey();
         System.out.println("Chave Pública encontrada!");
+        System.out.println(chavePublica);
         return chavePublica;
     }
 

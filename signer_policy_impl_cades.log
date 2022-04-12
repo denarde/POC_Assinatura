@@ -1,0 +1,653 @@
+2022-04-11 09:02:43 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:02:44 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:02:44 ERROR ICPBrasilUserHomeProviderCA:124 - Arquivo não encontrado no equipamento do usuário
+2022-04-11 09:02:44 WARN  ICPBrasilUserHomeProviderCA:131 - ERRO.  {0}.Arquivo não encontrado no equipamento do usuário
+2022-04-11 09:02:44 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:02:52 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 09:02:52 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:02:52 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 09:02:52 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:02:52 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:04:03 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:04:04 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:04:04 ERROR ICPBrasilUserHomeProviderCA:184 - Problema com o certificado: inválido ou  corrompido  ou nulo.
+2022-04-11 09:04:04 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:04:04 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 09:04:04 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 09:04:04 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:04:04 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 09:04:04 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:04:04 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:04:41 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:05:28 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:05:29 ERROR ICPBrasilUserHomeProviderCA:184 - Problema com o certificado: inválido ou  corrompido  ou nulo.
+2022-04-11 09:05:29 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:05:29 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 09:05:29 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 09:05:29 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:05:30 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 09:05:30 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:05:30 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:10:25 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:10:26 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:10:26 ERROR ICPBrasilUserHomeProviderCA:184 - Problema com o certificado: inválido ou  corrompido  ou nulo.
+2022-04-11 09:10:26 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:10:26 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 09:10:26 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 09:10:26 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:10:26 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 09:10:26 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:10:26 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:12:36 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:12:36 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:12:37 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:12:37 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:12:37 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:12:37 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:14:56 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:14:57 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:14:57 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:14:58 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:14:58 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:14:58 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:21:54 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:21:55 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:21:55 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:21:56 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:21:56 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:21:56 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:42:12 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 09:42:12 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:42:13 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:42:13 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:42:14 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:42:14 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:42:14 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:44:59 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 09:44:59 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:45:46 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:45:46 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:45:47 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:45:48 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:45:48 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:47:16 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 09:47:16 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:47:17 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:47:17 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:47:18 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:47:18 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:47:18 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:47:37 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 09:47:37 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:47:39 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:47:39 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:47:39 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:47:39 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:47:39 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:52:58 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 09:52:58 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:52:59 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:52:59 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:52:59 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:52:59 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:52:59 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 09:56:55 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 09:56:55 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 09:56:56 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 09:56:56 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 09:56:57 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 09:56:57 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 09:56:57 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:00:39 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:00:39 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:00:40 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:01:58 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:02:07 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:02:07 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:02:08 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:05:00 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:05:00 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:05:00 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:05:00 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:05:42 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:05:42 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:05:43 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:05:43 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:05:43 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:05:44 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:05:44 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:06:57 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:06:57 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:06:58 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:06:58 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:06:58 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:06:59 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:06:59 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:15:07 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:15:07 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:15:07 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:15:07 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:15:08 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:15:08 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:15:08 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:15:26 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:15:26 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:15:27 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:15:27 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:15:28 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:15:28 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:15:28 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:16:36 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:16:36 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:16:37 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:16:37 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:16:38 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:16:38 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:16:38 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:17:45 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:17:45 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:17:45 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:17:46 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:17:46 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:17:46 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:17:46 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:19:08 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:19:08 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:19:09 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:19:09 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:19:21 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:19:33 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:19:33 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:20:36 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:20:36 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:20:37 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:20:37 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:20:37 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:20:37 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:20:37 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:20:49 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:20:49 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:20:50 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:20:50 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:20:50 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:20:50 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:20:50 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:20:56 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:20:56 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:20:57 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:23:12 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:23:24 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:23:36 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:23:36 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:23:45 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:23:45 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:23:46 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:24:25 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:24:25 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:24:25 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:24:25 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:24:34 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:24:34 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:24:34 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:26:08 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:26:37 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:26:37 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:26:38 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:26:59 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:26:59 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:26:59 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:26:59 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:29:52 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 10:29:53 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:29:53 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:29:53 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:29:53 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:29:54 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:29:54 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:30:34 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:30:35 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:30:35 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:30:35 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:30:35 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:30:35 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:51:17 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:51:18 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:51:18 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:51:18 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:51:18 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:51:18 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:51:53 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:51:54 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:52:23 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:52:24 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:52:25 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:52:32 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:52:32 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:52:33 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:52:33 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:53:00 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:53:01 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:53:01 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:53:02 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:53:02 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:53:02 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:53:38 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:53:39 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 10:55:42 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 10:55:43 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 10:55:44 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 10:55:44 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 10:57:41 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 10:57:42 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:00:36 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:00:46 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 11:00:50 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:00:51 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:03:10 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:03:11 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 11:03:11 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 11:03:11 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 11:03:14 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:03:59 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:04:02 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:04:13 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:05:32 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:05:33 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 11:05:34 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 11:05:34 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 11:05:37 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:05:38 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:05:52 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:05:53 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:05:54 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:06:33 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:15:33 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:15:34 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:15:34 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:15:35 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 11:15:35 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 11:15:35 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 11:17:32 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:17:33 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:17:33 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:17:36 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 11:17:36 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 11:17:36 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 11:18:42 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:18:43 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:18:56 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:18:57 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 11:18:57 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 11:18:57 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 11:19:13 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:20:33 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:20:35 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:20:35 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 11:20:35 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 11:20:35 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 11:20:39 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:22:05 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 11:22:39 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 11:22:42 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 11:22:42 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 11:22:42 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 11:22:42 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 11:22:49 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:02:33 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:03:23 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:03:37 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:04:42 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 13:04:51 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 13:04:51 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 13:04:51 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 13:04:51 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 13:05:15 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:05:27 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 13:05:42 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 13:05:43 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 13:05:44 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 13:05:44 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 13:05:52 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:06:07 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 13:06:34 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 13:06:35 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:06:43 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 13:06:47 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 13:06:48 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 13:06:48 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 13:06:48 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 13:15:26 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:15:27 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 13:15:27 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 13:15:27 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 13:15:28 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 13:15:28 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 13:22:16 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:22:16 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 13:22:16 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 13:22:17 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 13:22:17 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 13:22:17 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 13:22:40 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 13:22:41 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 13:22:41 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 13:22:41 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 13:22:41 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 13:22:41 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:30:35 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:30:36 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:30:36 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:30:37 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:30:37 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:30:37 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:30:37 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:30:37 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:30:37 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:30:37 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:31:07 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:31:08 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:31:08 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:31:08 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:31:08 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:31:08 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:31:08 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:31:08 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:31:08 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:31:08 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:31:29 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:31:30 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:31:30 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:31:30 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:31:30 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:31:30 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:31:30 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:31:30 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:31:30 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:31:30 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:34:02 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:34:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:34:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:34:06 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:34:06 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:34:06 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:34:06 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:34:06 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:34:06 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:34:06 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:34:29 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:34:31 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:34:31 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:34:31 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:34:31 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:34:31 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:34:31 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:34:31 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:34:31 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:34:31 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:35:00 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:35:01 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:35:01 ERROR ICPBrasilUserHomeProviderCA:124 - Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:35:01 WARN  ICPBrasilUserHomeProviderCA:131 - ERRO.  {0}.Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:35:01 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:35:02 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:35:02 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:35:03 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:35:03 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:35:03 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:36:41 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:36:42 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:36:42 ERROR ICPBrasilUserHomeProviderCA:184 - Problema com o certificado: inválido ou  corrompido  ou nulo.
+2022-04-11 14:36:42 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:36:42 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:36:42 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:36:42 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:36:42 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:36:42 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:36:42 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:37:44 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:37:45 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:37:45 ERROR ICPBrasilUserHomeProviderCA:184 - Problema com o certificado: inválido ou  corrompido  ou nulo.
+2022-04-11 14:37:45 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:37:46 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:37:46 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:37:46 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:37:46 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:37:46 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:37:46 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:39:20 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:39:22 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:39:22 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:39:23 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:39:23 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:39:23 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:39:23 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:39:23 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:39:23 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:39:23 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:40:51 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:40:53 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:40:53 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:40:53 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:40:53 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:40:53 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:40:53 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:40:53 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:40:53 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:40:53 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:41:05 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:41:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:41:06 ERROR ICPBrasilUserHomeProviderCA:124 - Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:41:06 WARN  ICPBrasilUserHomeProviderCA:131 - ERRO.  {0}.Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:41:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:41:06 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:41:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:41:09 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:41:09 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:41:09 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:43:14 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:43:15 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:43:15 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:43:15 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:43:15 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:43:15 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:43:15 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:43:15 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:43:15 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:43:15 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:44:05 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:44:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:44:06 ERROR ICPBrasilUserHomeProviderCA:124 - Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:44:06 WARN  ICPBrasilUserHomeProviderCA:131 - ERRO.  {0}.Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:44:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:44:06 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:44:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:44:08 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:44:08 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:44:08 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:44:42 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:44:43 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:44:43 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:44:43 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:44:43 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:44:43 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:44:43 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:44:43 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:44:43 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:44:43 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:45:05 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:45:05 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:45:05 ERROR ICPBrasilUserHomeProviderCA:124 - Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:45:05 WARN  ICPBrasilUserHomeProviderCA:131 - ERRO.  {0}.Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:45:05 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:45:06 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:45:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:45:07 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:45:07 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:45:07 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:54:38 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:54:39 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:54:39 ERROR ICPBrasilUserHomeProviderCA:184 - Problema com o certificado: inválido ou  corrompido  ou nulo.
+2022-04-11 14:54:39 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:54:39 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 14:54:39 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 14:54:39 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:54:39 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:54:39 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:54:39 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 14:55:08 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 14:55:08 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 14:55:08 ERROR ICPBrasilUserHomeProviderCA:124 - Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:55:08 WARN  ICPBrasilUserHomeProviderCA:131 - ERRO.  {0}.Arquivo não encontrado no equipamento do usuário
+2022-04-11 14:55:08 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 14:55:09 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:55:09 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 14:55:09 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 14:55:09 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 14:55:09 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 15:02:53 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:02:54 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:02:54 ERROR ICPBrasilUserHomeProviderCA:184 - Problema com o certificado: inválido ou  corrompido  ou nulo.
+2022-04-11 15:02:54 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 15:02:54 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 15:02:54 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 15:02:54 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 15:02:54 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 15:02:54 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 15:02:54 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 15:04:31 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:04:31 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:04:31 ERROR ICPBrasilUserHomeProviderCA:124 - Arquivo não encontrado no equipamento do usuário
+2022-04-11 15:04:31 WARN  ICPBrasilUserHomeProviderCA:131 - ERRO.  {0}.Arquivo não encontrado no equipamento do usuário
+2022-04-11 15:04:31 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 15:04:32 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 15:04:32 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 15:04:32 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 15:04:32 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 15:04:32 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 15:04:59 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:05:00 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:05:00 ERROR ICPBrasilUserHomeProviderCA:184 - Problema com o certificado: inválido ou  corrompido  ou nulo.
+2022-04-11 15:05:00 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 15:05:00 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 15:05:00 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 15:05:00 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 15:05:00 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 15:05:00 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 15:05:00 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 15:05:48 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:06:16 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:07:11 ERROR ICPBrasilUserHomeProviderCA:184 - Problema com o certificado: inválido ou  corrompido  ou nulo.
+2022-04-11 15:07:11 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil arquivo no diretorio local do usuário C:\Users\monitora\.java\signer\ACcompactado.zip
+2022-04-11 15:07:12 WARN  ICPBrasilOnLineSerproProviderCA:168 - !error.recover.file!C:\Users\monitora\.java\signer\ACcompactado.zip: O arquivo já está sendo usado por outro processo.
+
+2022-04-11 15:07:12 INFO  ICPBrasilOnLineSerproProviderCA:176 - O Provider Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip) NÃO possui certificados.
+2022-04-11 15:07:12 WARN  CAManager:297 - Nao foi possível resgatar as CAs do certificado no provedor Provedor ONLINE de cadeias ICP-Brasil do SERPRO (http://repositorio.serpro.gov.br/icp-brasil/ACcompactado.zip)
+2022-04-11 15:07:13 ERROR ICPBrasilOnLineSerproProviderCA:260 - Problema com o certificado: inválido ou  corrompido  ou nulo.java.io.IOException: subject key, raw key data not recognised
+2022-04-11 15:07:13 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor ONLINE de cadeias ICP-Brasil do ITI (http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/ACcompactado.zip)
+2022-04-11 15:07:13 ERROR CAManager:302 - O certificado CN="Wayne Enterprises, Inc", O=Lacuna Software, C=BR não pertence a nenhuma cadeia confiável ou não há acesso internet para busca!
+2022-04-11 15:08:05 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:08:06 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:08:06 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:08:06 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:08:06 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-11 15:08:06 WARN  PolicyFactory:184 - Arquivo LPA_CAdES.der não encontrado, executará download do arquivo.
+2022-04-11 15:08:06 INFO  PolicyFactory:262 - Carregando LPA  a partir da url http://politicas.icpbrasil.gov.br/LPA_CAdES.der.
+2022-04-11 15:08:07 INFO  LPARepository:79 - Executando download de http://politicas.icpbrasil.gov.br/LPA_CAdES.der 
+2022-04-11 15:08:07 INFO  LPARepository:82 - O diretório C:\Users\monitora\AppData\Local\Temp\lpas para armazenamento local de LPA não existe e será criado.
+2022-04-11 15:08:07 INFO  LPARepository:85 - Executando download de http://politicas.icpbrasil.gov.br/LPA_CAdES.der 
+2022-04-11 15:10:47 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:10:48 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:10:48 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:10:48 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:10:48 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-11 15:10:55 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 15:10:55 ERROR TimeStampOperator:253 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:10:55 ERROR TimeStampOperator:329 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:10:56 ERROR TimeStampOperator:253 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:10:56 ERROR TimeStampOperator:329 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:10:56 ERROR TimestampGeneratorImpl:108 - Excedeu o máximo de tentativa de requisição do carimbo do tempo: 3
+2022-04-11 15:11:21 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:11:22 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:11:22 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:11:22 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:11:22 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-11 15:11:29 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 15:11:30 ERROR TimeStampOperator:253 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:11:30 ERROR TimeStampOperator:329 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:11:30 ERROR TimeStampOperator:253 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:11:30 ERROR TimeStampOperator:329 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:11:30 ERROR TimestampGeneratorImpl:108 - Excedeu o máximo de tentativa de requisição do carimbo do tempo: 3
+2022-04-11 15:11:48 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:11:49 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:11:49 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:11:49 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:11:49 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-11 15:14:34 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:14:35 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:15:11 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:15:12 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:15:12 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:15:12 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:15:12 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-11 15:15:59 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:15:59 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:16:00 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:16:00 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:16:00 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-11 15:19:57 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:19:58 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:19:59 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:19:59 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:19:59 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-11 15:47:35 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:47:36 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:47:37 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:47:37 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:47:37 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-11 15:47:44 ERROR Configuration:251 - Nenhum, driver foi encontrado
+2022-04-11 15:47:45 ERROR TimeStampOperator:253 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:47:45 ERROR TimeStampOperator:329 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:47:45 ERROR TimeStampOperator:253 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:47:45 ERROR TimeStampOperator:329 - A credencial de carimbo do tempo foi rejeitada, verifique seu cadastro na ACT
+2022-04-11 15:47:45 ERROR TimestampGeneratorImpl:108 - Excedeu o máximo de tentativa de requisição do carimbo do tempo: 3
+2022-04-11 15:53:11 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-11 15:53:12 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-11 15:53:12 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:53:12 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-11 15:53:12 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-12 10:05:21 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-12 10:05:22 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-12 10:05:23 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 10:05:23 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 10:05:23 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
+2022-04-12 10:13:28 INFO  FileSystemKeyStoreLoader:158 - FileSystemKeyStoreLoader.getKeyStore()
+2022-04-12 10:13:29 INFO  CAManager:294 - Não foi possivel montar a cadeia com o provider: Provedor OFFLINE de cadeias ICP-Brasil  (icpbrasil.jks)
+2022-04-12 10:13:29 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 10:13:29 ERROR CAManager:105 - Certificado da autoridade não é raiz
+2022-04-12 10:13:29 WARN  PolicyValidator:94 - A Lista de politicas de assinatura do componente para o padrão usado está desatualizada, a data de atualização é: 30/01/2022 - 09:00:00
